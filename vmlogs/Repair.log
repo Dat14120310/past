@@ -1,0 +1,112 @@
+TIME     : 2022-02-21 21:48:54
+FILE     : VMRepair.cpp
+FUNCTION : wWinMain
+LINENUM  : 36
+DETAIL   : Repair Begin!
+
+TIME     : 2022-02-21 21:48:54
+FILE     : App.cpp
+FUNCTION : BeginThread
+LINENUM  : 333
+DETAIL   : stop machines.
+
+TIME     : 2022-02-21 21:48:54
+FILE     : VBoxApi.cpp
+FUNCTION : VB_Init
+LINENUM  : 632
+DETAIL   : VBI_GetISession hr = 0
+
+TIME     : 2022-02-21 21:48:54
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 13840
+
+
+TIME     : 2022-02-21 21:48:54
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 14600
+
+
+TIME     : 2022-02-21 21:48:54
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 16168
+
+
+TIME     : 2022-02-21 21:48:54
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 3004
+
+
+TIME     : 2022-02-21 21:48:54
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StopMachine
+LINENUM  : 2366
+DETAIL   : VB_StopMachine come in xa .
+
+TIME     : 2022-02-21 21:48:54
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StopMachine
+LINENUM  : 2373
+DETAIL   : ErrorCode is "3". Detail : VB_ERR_MACHINE_NOEXIST
+
+TIME     : 2022-02-21 21:48:54
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StopMachine
+LINENUM  : 2366
+DETAIL   : VB_StopMachine come in xa .
+
+TIME     : 2022-02-21 21:48:54
+FILE     : VBoxApi.cpp
+FUNCTION : VB_StopMachine
+LINENUM  : 2373
+DETAIL   : ErrorCode is "3". Detail : VB_ERR_MACHINE_NOEXIST
+
+TIME     : 2022-02-21 21:49:50
+FILE     : App.cpp
+FUNCTION : BeginThread
+LINENUM  : 335
+DETAIL   : kill progress.
+
+TIME     : 2022-02-21 21:49:50
+FILE     : App.cpp
+FUNCTION : BeginThread
+LINENUM  : 347
+DETAIL   : has terminated unexpectedly during startup with exit code 1.
+
+TIME     : 2022-02-21 21:49:50
+FILE     : tools\tools.cpp
+FUNCTION : CMDLine
+LINENUM  : 191
+DETAIL   : cmd.exe,/C echo f |xcopy "C:\Program Files (x86)\Bignox\BigNoxVM\RT\newver\YSDrv\YSDrv.sys" "C:\Program Files (x86)\Bignox\BigNoxVM\RT\YSDrv.sys" /o /y
+
+TIME     : 2022-02-21 21:49:50
+FILE     : tools\tools.cpp
+FUNCTION : CMDLine
+LINENUM  : 191
+DETAIL   : cmd.exe,/C echo f |xcopy "C:\Program Files (x86)\Bignox\BigNoxVM\RT\newver\YSDrv\YSR0.sys" "C:\Program Files (x86)\Bignox\BigNoxVM\RT\YSR0.sys" /o /y
+
+TIME     : 2022-02-21 21:49:50
+FILE     : tools\tools.cpp
+FUNCTION : CMDLine
+LINENUM  : 191
+DETAIL   : cmd.exe,/C echo f |xcopy "C:\Program Files (x86)\Bignox\BigNoxVM\RT\newver\YSDrv\YSDDR0.sys" "C:\Program Files (x86)\Bignox\BigNoxVM\RT\YSDDR0.sys" /o /y
+
+TIME     : 2022-02-21 21:49:50
+FILE     : VMRepair.cpp
+FUNCTION : wWinMain
+LINENUM  : 49
+DETAIL   : Repair End!
+
+TIME     : 2022-02-21 21:49:50
+FILE     : VBoxApi.cpp
+FUNCTION : VB_Exit
+LINENUM  : 651
+DETAIL   : Stop VM.
+
